@@ -1,8 +1,8 @@
 # Jogo De Adivinhação
 
-![](https://i.imgur.com/eUEM5cs.gif)
+![](https://i.imgur.com/BBEzTmd.gif)
 
-## Introdução
+## Introduçãos
 
 Um jogo onde você tenta adivinhar um número secreto de 1 - 20.
 
