@@ -1,16 +1,18 @@
 # Jogo De Adivinhação
 
+## Demonstração
+
 ![](https://i.imgur.com/BBEzTmd.gif)
 
-## Introduçãos
+## Introdução
 
 Um jogo onde você tenta adivinhar um número secreto de 1 - 20.
 
 ## Funcionalidades
 
-- **Gerador de número aleatório**: O jogo automaticamente gera um número de 1 até 20.
-- **Multiplas tentativas**: Você pode escolher a dificuldade do jogo e mudar quantas chances você tem para acertar.
-- **Feedback**: Caso o jogador erre o número, o jogo vai indicar se o número é maior ou menor do que o número secreto.
+- **Gerador de número aleatório**: O jogo gera automaticamente um número de 1 até 20.
+- **Múltiplas tentativas**: Você pode escolher a dificuldade do jogo e definir quantas chances terá para acertar.
+- **Feedback**: Caso o jogador erre o número, o jogo indicará se o número é maior ou menor que o número secreto.
 
 ## Como utilizar
 
